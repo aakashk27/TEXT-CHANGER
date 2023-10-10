@@ -66,6 +66,6 @@ export default function Navbar(props) {
 Navbar.propTypes = { title: PropTypes.string, aboutText: PropTypes.string };
 
 Navbar.defaultProps={
-  title:"TextUtils",
+  title:"TEXT FORMATTER",
   aboutText:"About Us"
 }
